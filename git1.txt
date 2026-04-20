@@ -1,0 +1,18 @@
+git basic command
+1) git init (to creat  repo)
+2) git clone http-URL (to clone remote to local)
+3) git status (to check file status)
+4) ssh-keygen -t ed25519 -C "ec2-github-key"
+5) git add file name (to add file to tracked stage)
+6) git commit -m "message" (to commit changes)
+7) git push origin branch name (to push changes to remote)  
+8) git pull origin branch name (to pull changes from remote)    
+9) git branch (to check branch)
+10) git checkout branch name (to switch branch)
+11) git merge branch name (to merge branch)
+12) git log (to check commit history)
+13) git reset --hard commit id (to reset to specific commit)
+14) git restore file name 
+15) git stash (to save changes temporarily)
+16) git commit -am "message" (to commit modified file direct changes)
+17) 
