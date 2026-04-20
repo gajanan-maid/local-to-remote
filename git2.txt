@@ -1,0 +1,15 @@
+Branch and merge
+1) git branch (to check branch)
+2) git branch -M main (to madify name)
+3) git checkout "branch name" (to navigate)
+4) git checkout -b "branch name" (to create new branch)
+5) git checkout -d "branch name" (to delete branch)
+6) git diff "branch name" (check diff between to branch code)
+7) git merge "branch name" (to merge to branches)
+8) git rebase "branch name" (to rebase to branches)
+9) git log (to check commit history)
+10) git reset --hard "commit id" (to reset to specific commit)
+11) git commit -am "message" (to commit modified file direct changes)
+12) git reset "branch name"
+13) git reset HEAD ~1 (1 step chanhe)
+14) git reset hard 
